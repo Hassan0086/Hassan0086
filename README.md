@@ -13,7 +13,7 @@
 </a>
 
 
-<sub>Software Engineer Intern @ Axiom World &nbsp;·&nbsp; B.S. Computer Science, University of Central Punjab</sub>
+<sub>Associate Software Engineer @ Axiom World &nbsp;·&nbsp; B.S. Computer Science, University of Central Punjab</sub>
 
 </div>
 
