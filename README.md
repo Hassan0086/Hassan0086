@@ -57,7 +57,7 @@ I enjoy building systems where **backend engineering, artificial intelligence, b
 <div align="center">
 
 | | |
-| **Title** | **Description** |
+|:---|:---|
 | **Role** | Associate Software Engineer · Axiom World |
 | **Focus areas** | Backend Engineering · AI / ML · Odoo / ERP · Automation |
 | **Interests** | LLMs · RAG · NLP · APIs · System Integration |
