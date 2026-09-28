@@ -50,7 +50,7 @@
 
 I am a **Computer Science graduate** with a strong foundation in software engineering, backend development, and AI engineering, with hands-on experience building real-world applications using Python and modern technologies.
 
-Currently working as a **Software Engineer Intern at Axiom World**, I contribute to Python-based enterprise applications while developing practical experience in software architecture, ERP development, AI-driven automation, integrations, debugging, and maintainable system design.
+Currently working as a **Associate Software Engineer at Axiom World**, I contribute to Python-based enterprise applications while developing practical experience in software architecture, ERP development, AI-driven automation, integrations, debugging, and maintainable system design.
 
 I enjoy building systems where **backend engineering, artificial intelligence, business workflows, and automation** meet — not just making software work, but understanding the problem deeply, designing the system thoughtfully, and leaving behind code that is clear and maintainable.
 
