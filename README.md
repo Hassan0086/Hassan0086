@@ -58,7 +58,7 @@ I enjoy building systems where **backend engineering, artificial intelligence, b
 
 | | |
 |:---|:---|
-| **Role** | Software Engineer Intern · Axiom World |
+| **Role** | Associate Software Engineer · Axiom World |
 | **Focus areas** | Backend Engineering · AI / ML · Odoo / ERP · Automation |
 | **Interests** | LLMs · RAG · NLP · APIs · System Integration |
 | **Background** | B.S. Computer Science · University of Central Punjab, Lahore |
